@@ -112,7 +112,7 @@ yarn add -D eslint prettier
 
 - 세미콜론을 붙이지 않으면 다음과 같은 에러를 볼 수 있음
 
-![ESLint,%20Prettier%20/Untitled.png](ESLint,%20Prettier%20/Untitled.png)
+![ESLint,%20Prettier%20/Untitled.png](ESLint%2C%20Prettier/Untitled.png)
 
 ## 참고
 
