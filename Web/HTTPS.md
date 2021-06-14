@@ -49,5 +49,5 @@ Tags: Security, Web
 
 # 참고
 
-- [https://jeong-pro.tistory.com/89](https://jeong-pro.tistory.com/89)(https://jeong-pro.tistory.com/89](https://jeong-pro.tistory.com/89)
+- [https://jeong-pro.tistory.com/89](https://jeong-pro.tistory.com/89)
 - [https://www.freecodecamp.org/news/https-explained-with-carrier-pigeons-7029d2193351/](https://www.freecodecamp.org/news/https-explained-with-carrier-pigeons-7029d2193351/)
