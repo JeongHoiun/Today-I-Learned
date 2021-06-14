@@ -1,7 +1,7 @@
 # DevExpress에서 CurrentItem, SelectedItem, SelectedItems의 차이
 
 Created: May 24, 2021 4:30 PM
-Tags: DevExpress
+Tags: DevExpress, C#, WPF
 
 ## 발단
 
